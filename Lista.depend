@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428373165 source:/home/rodolfo/Escritorio/Lista/Lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+
